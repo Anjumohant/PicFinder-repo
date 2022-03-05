@@ -1,16 +1,22 @@
-# image_search_pixabay
+# Pic Finder
 
-Displaying the images using keyword search
+
+Display the images based on the keyword that entered by the user
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Users acan easily get the images based on the keyword.
+Every users can easily sort their favourite images by tapping the heart icon on top of the images.
+Also view their favourite images on seperate screen by tapping the heart icon on top right corner of the appbar.
 
-A few resources to get you started if this is your first Flutter project:
+# versions
+- Flutter-2.10.3
+- Dart-2.16.1
+- Android studio version-4.2.2
+- Testing device- Physical device(OPPO F19s Pro+)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Dependencies used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- connectivity_plus 2.2.1 : (https://pub.dev/packages/connectivity_plus)
+- http 0.13.0 : (https://pub.dev/packages/http)
