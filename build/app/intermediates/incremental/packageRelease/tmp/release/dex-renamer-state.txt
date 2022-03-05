@@ -1,0 +1,4 @@
+#Sat Mar 05 17:06:33 IST 2022
+base.0=C\:\\Users\\hp\\flutter projects\\image_search_pixabay - Copy\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
